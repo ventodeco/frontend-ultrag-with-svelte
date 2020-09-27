@@ -5,7 +5,7 @@
 </style>
 
 <svelte:head>
-	<title>Sapper project template</title>
+	<title>ULTRAG</title>
 </svelte:head>
 
 <div class="flex justify-between pt-16 w-auto">	
